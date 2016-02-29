@@ -1,5 +1,5 @@
 # viper_hello.rb - initialization for viper_hello Viper package
-def viper_hello string
+def hello string
   say "Hello, #{string}"
 end
 
