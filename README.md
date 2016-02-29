@@ -1,7 +1,7 @@
 # viper_hello
 Canonical Hello World Package for Viper Programmer's Editor
 
-## Version 0.1.0
+## Version 0.1.1
 
 
 ## Abstract
@@ -10,6 +10,14 @@ This libraryis the canonical 'Hello World' package for the Viper Programmer's ed
 blind and visually programmer community. It can be found here: [Viper GitHub page](https://github.com/edhowland/viper)
 
 ## Installation
+
+
+### System Requirements
+
+Viper packages require the Viper editor version 1.1 or greater. If the Viper you installd was from the master branch
+on GitHub and is a version < 1.1, then you can get the code from the feature branch '1.1.0'. Switch to that branch on the main GitHub page and clone the viper
+over your current viper location. Version 1.1 is backward compatible with version '1.0.0' with the additional package support.
+
 
 Once Viper is installed, you can add additional packages to extend its functionality. The only requirement is to clone or unpack
 the tarball in a place where Viper can find it. By default, Viper looks in this subdirectory for installed packages: 
